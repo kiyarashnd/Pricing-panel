@@ -1,0 +1,2 @@
+# Pricing-panel
+Pricing panel
